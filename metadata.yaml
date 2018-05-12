@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2578
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Lee_Bates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45441#In-Sunny-Spain-with-Pilarica-and-Rafael
 gutenberg_issued: '2014-04-20'
 gutenberg_type: Text
 identifiers:
